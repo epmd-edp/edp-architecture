@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "335a4199_26e635a0",
+        "filename": "module-based-acrhitecture/entity-model/codebase-operator.puml",
+        "patchSetId": 1
+      },
+      "lineNbr": 119,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2020-02-03T07:52:04Z",
+      "side": 1,
+      "message": "Codebase",
+      "range": {
+        "startLine": 119,
+        "startChar": 8,
+        "endLine": 119,
+        "endChar": 15
+      },
+      "revId": "a252d1a69eac6d4278e63a4cffb65f639977793f",
+      "serverId": "0350cb7f-c1b1-4710-a647-f6632dbafb3c",
+      "unresolved": false
+    }
+  ]
+}
