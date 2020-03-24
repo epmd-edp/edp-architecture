@@ -251,11 +251,29 @@ package edp.epam.com {
       -- annotations --
       -- metadata --
       -- spec --
-        String realmname
-        String name
+        String targetRealm
+        String secret
+        Boolean public
+        String clientId
+        String webUrl
+        Boolean directAccess
+        Boolean advancedProtocolMappers
+        Boolean audRequired
+        RealmRole[] realmRoles
+        String[] clientRoles
       -- status --
       }
       KeycloakClient .u.> KeycloakRealm : "owner reference"
+
+      class RealmRole <internal Struct> {
+      -- annotations --
+      -- metadata --
+      -- spec --
+          String name
+          String composite
+      -- status --
+      }
+      RealmRole <- KeycloakClient : "internal structure"
 
       class KeycloakUser {
       -- annotations --
