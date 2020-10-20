@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3cd97464_dcddf4b6",
+        "filename": "documentation/branching_model.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2020-10-20T06:47:12Z",
+      "side": 1,
+      "message": "I am not sure about this. Trunk based development does not mean return to master",
+      "range": {
+        "startLine": 30,
+        "startChar": 45,
+        "endLine": 30,
+        "endChar": 74
+      },
+      "revId": "ffaf0a14d6116d02413fe4d80577b32937987623",
+      "serverId": "0350cb7f-c1b1-4710-a647-f6632dbafb3c",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "a3d6d1de_d5d52f4c",
+        "filename": "documentation/branching_model.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2020-10-20T06:47:12Z",
+      "side": 1,
+      "message": "We do not recommend EDP versioning (released feature). Why?",
+      "range": {
+        "startLine": 41,
+        "startChar": 0,
+        "endLine": 43,
+        "endChar": 15
+      },
+      "revId": "ffaf0a14d6116d02413fe4d80577b32937987623",
+      "serverId": "0350cb7f-c1b1-4710-a647-f6632dbafb3c",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "f6d14e0d_ae951067",
+        "filename": "documentation/branching_model.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2020-10-20T06:47:12Z",
+      "side": 1,
+      "message": "Do not understand this label",
+      "range": {
+        "startLine": 62,
+        "startChar": 66,
+        "endLine": 62,
+        "endChar": 74
+      },
+      "revId": "ffaf0a14d6116d02413fe4d80577b32937987623",
+      "serverId": "0350cb7f-c1b1-4710-a647-f6632dbafb3c",
+      "unresolved": true
+    }
+  ]
+}
